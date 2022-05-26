@@ -11,8 +11,6 @@
 ## Executive Summary
 Term 1 group project for Data Analytics class at IE university - part of the Masters in Management program.
 
-### Project Scope
-
 “Structural Transformation” is a theory in economic development that makes the following prediction: **"as a country's economic activity shifts from agriculture, to manufacturing to the services sector, gdp per capita will rise".** 
 
 If this holds true, then the **implications for developing country policy-makers** aiming to raise gdp per capita are significant - support policies that encourage a structural transformation of the economy away from low-productivity activites to higher-productivity activities. Of course, every country must identify and execute policies tailored to its own needs and goals. However, a model describing the relationship between relative service sector size and gdp per capita may be of value to:
