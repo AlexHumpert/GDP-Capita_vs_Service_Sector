@@ -1,4 +1,4 @@
-# Linear Regressoin: GDP per Capita vs Relative Size of Service Sector
+# Linear Regression: GDP per Capita vs Relative Size of Service Sector
 
 ## Code and Resources Used
 
@@ -12,13 +12,13 @@ Term 1 group project for Data Analytics class at IE university - part of the Mas
 
 “Structural Transformation” is a theory in economic development that makes the following prediction: **"as a country's economic activity shifts from agriculture, to manufacturing to the services sector, gdp per capita will rise".** 
 
-If this holds true, then the **implications for developing country policy-makers** aiming to raise gdp per capita are significant - support policies that encourage a strcutural transformation of the economy away from low-productivity activites to higher-productivity activities. Of course, every country must identify and execute policies tailored to its own needs and goals. However, a model describing the relationship between relative service sector size and gdp per capita may be of value to:
+If this holds true, then the **implications for developing country policy-makers** aiming to raise gdp per capita are significant - support policies that encourage a structural transformation of the economy away from low-productivity activites to higher-productivity activities. Of course, every country must identify and execute policies tailored to its own needs and goals. However, a model describing the relationship between relative service sector size and gdp per capita may be of value to:
 
 1. Policy makers responsible for managing fiscal and regulatory policies.
 2. Researchers in the field of economic development.
 3. Advocacy groups pressuring governments to invest for a country's future. 
 
-If there is a strong linear relationship, the following policies might be of interest for policy makers.
+If there is a strong linear relationship, the following policies might be of interest.
 
 1. Investing in education by [supporting/creating STEM courses](https://www.millenniumpoint.org.uk/invest-in-stem/) and widening access to these through scholarship schemes.
 2. Investing in basic technology infrastructure, such as [broadband, open sourced softwares and hardwares.](https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and)
@@ -31,7 +31,7 @@ If there is a strong linear relationship, the following policies might be of int
 
 ## Scatter Plot
 
-Interpretation:  This chart shows a linear relationship (Correlation 0.582716839) between GDP/K and Services value added; but it also shows that there is still considerable variability around the best-fitting straight line. Therefore, we can not say that the relation is perfect. We will now run a linear regression for further understanding of the relation between these two variables. 
+Interpretation: This chart shows a moderetaly strons positive linear relationship (Correlation 0.58) between GDP/K and Services value added; but it also shows that there is still considerable variability around the line of best-fit. We will now run a linear regression to capture more concretely the relationship between the two variables.
 
 <p align="center">
 <img width="600" alt="Screen Shot 2022-05-26 at 12 27 45 PM" src="https://user-images.githubusercontent.com/64847974/170470252-22a1ecb9-cea5-4df4-8ad5-2509e6b3be5d.png">
