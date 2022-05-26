@@ -64,13 +64,7 @@ Although a first step, by only comparing one independent variable (% of gdp from
 
 1. Cross-sectional: Regression between wealth and the agriculture value added (% of GDP). A negative correlation between these two variables further supporting the theory.
 2. Time-series: Regression analysis using time series data for a single country on service sector, manufacturing sector and agricultural sector (% of GDP). A positive correlation against time for services and manufacturing and a negative correlation against time for the agriculture would further support the theory. 
-3.Our model explained 29% of the variation in gdp/capita. It would be interesting to run the linear regression with more features, such as:
-
-1. Labor force with advanced education (% of total)
-2. 2. Ease of doing business indicators
-3. Proportion of population with internet access (% of total)
-
-
+3.Our model explained 29% of the variation in gdp/capita. It would be interesting to run the linear regression with more features, such as: (1) Labor force with advanced education (% of total), (2) Ease of doing business indicators, and (3) Proportion of population with internet access (% of total)
 
 
 
