@@ -26,27 +26,29 @@ If there is a strong linear relationship, the following policies might be of int
 
 ## Sample Data
 <p align="center">
-<img width="500" alt="Screen Shot 2022-05-26 at 12 27 20 PM" src="https://user-images.githubusercontent.com/64847974/170470183-c0b080a8-50fc-4b06-a80a-08a396a969b9.png">
+<img width="600" alt="Screen Shot 2022-05-26 at 12 27 20 PM" src="https://user-images.githubusercontent.com/64847974/170470183-c0b080a8-50fc-4b06-a80a-08a396a969b9.png">
 </p>
 
 ## Scatter Plot
 
 Interpretation:  This chart shows a linear relationship (Correlation 0.582716839) between GDP/K and Services value added; but it also shows that there is still considerable variability around the best-fitting straight line. Therefore, we can not say that the relation is perfect. We will now run a linear regression for further understanding of the relation between these two variables. 
 
-<img width="946" alt="Screen Shot 2022-05-26 at 12 27 45 PM" src="https://user-images.githubusercontent.com/64847974/170470252-22a1ecb9-cea5-4df4-8ad5-2509e6b3be5d.png">
-
+<p align="center">
+<img width="600" alt="Screen Shot 2022-05-26 at 12 27 45 PM" src="https://user-images.githubusercontent.com/64847974/170470252-22a1ecb9-cea5-4df4-8ad5-2509e6b3be5d.png">
+</p>
+  
 ## Linear Regression
 
 **Regression Output 1**
 
 <p align="center">
-<img width="500" alt="Screen Shot 2022-05-26 at 12 30 40 PM" src="https://user-images.githubusercontent.com/64847974/170470759-8dce8b0a-7248-4b1d-9019-aecdb1e530bc.png">
+<img width="600" alt="Screen Shot 2022-05-26 at 12 30 40 PM" src="https://user-images.githubusercontent.com/64847974/170470759-8dce8b0a-7248-4b1d-9019-aecdb1e530bc.png">
 </p>
 
 **Regression Output 2**
 
 <p align="center">
-<img width="500" alt="Screen Shot 2022-05-26 at 12 30 56 PM" src="https://user-images.githubusercontent.com/64847974/170470804-a01fd379-ab48-45a2-aa69-838fdec55677.png">
+<img width="600" alt="Screen Shot 2022-05-26 at 12 30 56 PM" src="https://user-images.githubusercontent.com/64847974/170470804-a01fd379-ab48-45a2-aa69-838fdec55677.png">
 </p>
 
 ## Insights
