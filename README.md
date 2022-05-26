@@ -3,7 +3,10 @@
 ## Code and Resources Used
 
 **Excel**
+
 **Packages:** Analysis Toolpak - Linear Regression
+
+**Data Source:** World Bank, [World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/#:~:text=World%20Development%20Indicators%20(WDI)%20is,country%20comparable%20data%20on%20development.&text=The%20World%20Development%20Indicators%20is,and%20the%20fight%20against%20poverty.)
 
 ## Executive Summary
 Term 1 group project for Data Analytics class at IE university - part of the Masters in Management program.
